@@ -1,0 +1,76 @@
+{
+    "students": [
+        {
+            "school": "GP",
+            "sex": "F",
+            "age": 18,
+            "address": "U",
+            "G1": 5,
+            "G2": 6,
+            "G3": 6
+        },
+        {
+            "school": "GP",
+            "sex": "M",
+            "age": 17,
+            "address": "U",
+            "G1": 6,
+            "G2": 5,
+            "G3": 6
+        },
+        {
+            "school": "GP",
+            "sex": "F",
+            "age": 15,
+            "address": "U",
+            "G1": 10,
+            "G2": 10,
+            "G3": 10
+        },
+        {
+            "school": "GP",
+            "sex": "M",
+            "age": 16,
+            "address": "R",
+            "G1": 15,
+            "G2": 14,
+            "G3": 15
+        },
+        {
+            "school": "MS",
+            "sex": "F",
+            "age": 19,
+            "address": "U",
+            "G1": 12,
+            "G2": 13,
+            "G3": 12
+        },
+        {
+            "school": "MS",
+            "sex": "M",
+            "age": 20,
+            "address": "R",
+            "G1": 8,
+            "G2": 9,
+            "G3": 10
+        },
+        {
+            "school": "MS",
+            "sex": "F",
+            "age": 17,
+            "address": "U",
+            "G1": 14,
+            "G2": 13,
+            "G3": 14
+        },
+        {
+            "school": "MS",
+            "sex": "M",
+            "age": 18,
+            "address": "R",
+            "G1": 11,
+            "G2": 12,
+            "G3": 11
+        }
+    ]
+}
